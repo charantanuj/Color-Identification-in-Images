@@ -1,0 +1,29 @@
+[
+  {
+    "usecaseValue": "Usecase 1",
+    "size": "M",
+    "warehouse": "4",
+    "hours": "8",
+    "days": "15",
+    "storage": "5",
+    "result": "123.45"
+  },
+  {
+    "usecaseValue": "Usecase 2",
+    "size": "L",
+    "warehouse": "6",
+    "hours": "12",
+    "days": "20",
+    "storage": "10",
+    "result": "234.56"
+  },
+  {
+    "usecaseValue": "Usecase 3",
+    "size": "S",
+    "warehouse": "2",
+    "hours": "6",
+    "days": "10",
+    "storage": "3",
+    "result": "67.89"
+  }
+]
